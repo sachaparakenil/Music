@@ -1,0 +1,20 @@
+{
+    "google": {
+        "base_url": "https://accounts.google.com",
+        "userInfo": "https://openidconnect.googleapis.com/v1/userinfo",
+        "access_token_url": "https://oauth2.googleapis.com/token",
+        "authorize_url": "https://accounts.google.com/o/oauth2/v2/auth",
+        "clientId": "22222499323-r43g2oq16dlmbi6i1nodjjsh3is7t2q3.apps.googleusercontent.com",
+        "clientSecret": "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",
+        "scope": "openid profile email"
+    },
+    "github": {
+        "base_url": "https://api.github.com",
+        "userInfo": "https://api.github.com/user",
+        "access_token_url": "https://github.com/login/oauth/access_token",
+        "authorize_url": "https://github.com/login/oauth/authorize",
+        "clientId": "1e775df0e42ecd860344",
+        "clientSecret": "05fd5b543b9a1a159898aa7f2902242263c7011f",
+        "scope": "read:user"
+    }
+}
