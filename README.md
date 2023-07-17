@@ -14,4 +14,4 @@ Key Features:
 
 6.Music API: The Music App offers a powerful API that developers can integrate into their own applications and services. This API allows access to the extensive music library, search functionality, playlist management, and more. Developers can leverage the Music App API to enhance their own music-related projects and provide a seamless music streaming experience to their users.
 
-7.Whether you're a music enthusiast, a casual listener, or someone who enjoys watching music videos, the Music App offers a seamless and immersive audiovisual experience. Dive into the world of music and video with the Music App's extensive collection, personalised recommendations, and easy-to-use interface. It's time to enhance your music streaming journey like never before.
+Whether you're a music enthusiast, a casual listener, or someone who enjoys watching music videos, the Music App offers a seamless and immersive audiovisual experience. Dive into the world of music and video with the Music App's extensive collection, personalised recommendations, and easy-to-use interface. It's time to enhance your music streaming journey like never before.
